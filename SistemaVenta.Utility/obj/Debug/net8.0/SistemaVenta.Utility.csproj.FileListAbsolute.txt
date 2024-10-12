@@ -1,0 +1,35 @@
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.deps.json
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfo.cs
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaV.10E87F00.Up2Date
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\refint\SistemaVenta.Utility.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\ref\SistemaVenta.Utility.dll
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.deps.json
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.dll
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.dll
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfo.cs
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.sourcelink.json
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaV.10E87F00.Up2Date
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.dll
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\refint\SistemaVenta.Utility.dll
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.pdb
+D:\ESTUDIOS\PROYECTO ANDROID\SistemaVentas\CarritoDeCompras_CreativeMinerSoft\SistemaVenta.Utility\obj\Debug\net8.0\ref\SistemaVenta.Utility.dll
